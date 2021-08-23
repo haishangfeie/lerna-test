@@ -17,7 +17,7 @@
     "lerna-test": "bin/index.js"
   },
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"run tests from package:core\""
@@ -25,5 +25,5 @@
   "dependencies": {
     "@lerna-test/utils": "^1.0.2"
   },
-  "gitHead": "320959e7a8d780e97ec7c149920e3b98c075f6ef"
+  "gitHead": "8870af8406e37a48d0232fae5291d7b3ff7327e9"
 }
