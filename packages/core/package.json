@@ -1,6 +1,6 @@
 {
   "name": "@learn-test/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "温兴杰 <wenxingjie@xiao100.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"run tests from package:core\""
   },
   "dependencies": {
-    "@lerna-test/utils": "^1.0.0"
+    "@lerna-test/utils": "^1.0.1"
   },
   "gitHead": "0a5e18d372b0cef08c983cab7a7490b5e24ba526"
 }
