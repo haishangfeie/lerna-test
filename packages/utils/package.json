@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test/utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "温兴杰 <wenxingjie@xiao100.com>",
   "homepage": "",
@@ -18,7 +18,5 @@
   },
   "scripts": {
     "test": "echo \"run tests from package:utils\""
-  },
-  "dependencies": {
   }
 }
