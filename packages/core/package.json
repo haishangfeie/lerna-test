@@ -1,5 +1,5 @@
 {
-  "name": "@learn-test/core",
+  "name": "@learn-test-feie/core",
   "version": "1.0.4",
   "description": "> TODO: description",
   "author": "温兴杰 <wenxingjie@xiao100.com>",
@@ -23,7 +23,7 @@
     "test": "echo \"run tests from package:core\""
   },
   "dependencies": {
-    "@lerna-test/utils": "^1.0.4"
+    "@learn-test-feie/utils": "^1.0.4"
   },
-  "gitHead": "e79db9b7012fa384346f270250052703345f56f8"
+  "gitHead": "5f1a5f1bf533d84fc3c3a2217019a0e905b20a0b"
 }
