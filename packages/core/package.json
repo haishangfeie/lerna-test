@@ -1,6 +1,6 @@
 {
   "name": "@learn-test/core",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "温兴杰 <wenxingjie@xiao100.com>",
   "homepage": "",
@@ -13,8 +13,8 @@
   "files": [
     "lib"
   ],
-  "bin":{
-    "lerna-test":"bin/index.js"
+  "bin": {
+    "lerna-test": "bin/index.js"
   },
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
@@ -23,7 +23,7 @@
     "test": "echo \"run tests from package:core\""
   },
   "dependencies": {
-    "@lerna-test/utils": "^0.0.3"
+    "@lerna-test/utils": "^1.0.0"
   },
   "gitHead": "7b1ec583e5dfa1141140e728c6b128ce4a48e9f0"
 }
