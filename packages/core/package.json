@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@lerna-test/utils": "^0.0.2"
-  }
+  },
+  "gitHead": "bff5836ce4554f7e5cb5bdbea082d323a8ca9748"
 }
