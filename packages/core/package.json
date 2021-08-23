@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "bin":{
+    "lerna-test":"bin/index.js"
+  },
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
   },
@@ -22,5 +25,5 @@
   "dependencies": {
     "@lerna-test/utils": "^0.0.3"
   },
-  "gitHead": "bff5836ce4554f7e5cb5bdbea082d323a8ca9748"
+  "gitHead": "7b1ec583e5dfa1141140e728c6b128ce4a48e9f0"
 }
