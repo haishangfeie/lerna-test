@@ -23,7 +23,7 @@
     "test": "echo \"run tests from package:core\""
   },
   "dependencies": {
-    "@learn-test-feie/utils": "^1.0.5"
+    "@learn-test-feie/utils": "file:../utils"
   },
   "gitHead": "5f1a5f1bf533d84fc3c3a2217019a0e905b20a0b"
 }
