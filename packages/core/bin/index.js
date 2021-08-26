@@ -2,3 +2,4 @@
 const utils = require('@learn-test-feie/utils')
 console.log('hello world.')
 utils()
+utils()
