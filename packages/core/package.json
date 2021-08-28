@@ -23,7 +23,8 @@
     "test": "echo \"run tests from package:core\""
   },
   "dependencies": {
-    "@learn-test-feie/utils": "file:../utils"
+    "dedent": "^0.7.0",
+    "yargs": "^17.1.1"
   },
   "gitHead": "5f1a5f1bf533d84fc3c3a2217019a0e905b20a0b"
 }
